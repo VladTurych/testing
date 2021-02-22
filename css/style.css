@@ -4,7 +4,7 @@
 {
 	font-family: 'Raleway', sans-serif;
 }
-body
+body,html
 {
 	background: #d1d1d1;
 	overflow-x: hidden;

@@ -14,6 +14,8 @@ body,html
 	background: #009D6E;
 	
 }
+
+
 .navbar .navbar-brand
 {
 	color: #ddd;
@@ -26,6 +28,7 @@ body,html
     font-weight: 600;
     font-size: 1.3rem;
     transition-duration: 0.4s;
+    display: inline-block;
 }
 #navbarSupportedContent > ul.navbar-nav.mx-auto > li:nth-child(n) > a:hover
 {
@@ -249,7 +252,7 @@ body > footer > div.container-fluid.text-center.text-md-left.mt-5 > div > div.co
 	right: 2%;
 	bottom: 3%;
 }
-body > nav > button > span 
+body > nav > button > span i
 {
 	font-size: 30px;
 	color:#d1d1d1;
